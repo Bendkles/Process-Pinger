@@ -65,3 +65,4 @@ Ping 'java' processes for any user 3 times with 5 seconds interval:
 ## Error Handling
 
 The script validates input arguments and checks if the pgrep command succeeds. If it encounters an error, it prints an error message and exits.
+
